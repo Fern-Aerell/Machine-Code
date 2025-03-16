@@ -1,3 +1,2 @@
-# Machine Code
-
-Ini adalah repo untuk menyimpan hasil belajar machine code atau bahasa mesin.
+# LAU - Machine Code
+A repository for exploration and mastery the machine code.
