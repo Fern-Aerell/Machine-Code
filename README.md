@@ -1,2 +1,2 @@
 # LAU - Machine Code
-A repository for exploration and mastery the machine code.
+A repository for exploration and mastery machine code.
